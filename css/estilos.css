@@ -1,0 +1,14 @@
+
+
+body#principal{
+    background-color: black;
+}
+
+body#fondo2{
+  background-color:#ffffff;
+}
+
+h1#principal,p{
+    color: #ffffff;
+}
+
